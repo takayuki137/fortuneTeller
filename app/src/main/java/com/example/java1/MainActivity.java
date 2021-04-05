@@ -34,11 +34,12 @@ public class MainActivity extends AppCompatActivity {
 
                 int number= new java.util.Random().nextInt(3);
 
-                if ( number==1) {
+
+                if ( number==0) {
                     textView1.setText(getString(R.string.luck1));
-                }else if(number==2){
+                }else if(number==1){
                     textView1.setText(getString(R.string.luck2));
-                }else if(number==3){
+                }else if(number==2){
                     textView1.setText(getString(R.string.luck3));
                 }
             }
