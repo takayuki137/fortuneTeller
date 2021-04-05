@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JAVA1</string>
+    <string name="luck1">大吉</string>
+    <string name="luck2">中吉</string>
+    <string name="luck3">小吉</string>
+
+
+</resources>
